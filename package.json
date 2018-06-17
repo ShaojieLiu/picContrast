@@ -1,0 +1,29 @@
+{
+  "name": "piccontrast",
+  "version": "1.0.0",
+  "description": "contrast two png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaojieLiu/picContrast.git"
+  },
+  "keywords": [
+    "picture",
+    "contrast",
+    "difference"
+  ],
+  "author": "liushaojie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaojieLiu/picContrast/issues"
+  },
+  "homepage": "https://github.com/ShaojieLiu/picContrast#readme",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "imagejs": "0.0.9"
+  }
+}
